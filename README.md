@@ -6,7 +6,7 @@ a new user interface theme for VTENEXT, designed to replace the default theme <c
 
 a theme in VTENEXT is a complete front end user interface design, and it covers all aspects of user interactions with the application.
 
-blueberry theme features :
+for the full changes and features check out the [project page](https://github.com/mavenea/VTENEXT-blueberry/projects/1)
 
 
 
