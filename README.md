@@ -1,4 +1,4 @@
-# VTENEXT-blueberry
+# vtenext-blueberry
 a fresh new User Interface perspective for [VTENEXT](https://www.vtenext.com/en/)
 
 <h1>What is it?</h1>
